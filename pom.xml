@@ -4,9 +4,9 @@
   <artifactId>Cafe</artifactId>
   <version>0.0.1-SNAPSHOT</version>
  
- <dependencies>
+<dependencies>
  
- <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-server</artifactId>
@@ -44,6 +44,6 @@
 </dependency>
  
  
- </dependencies> 
+</dependencies> 
   
 </project>
